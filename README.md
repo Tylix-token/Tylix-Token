@@ -1,16 +1,14 @@
 # Tylix USDT
 
-## Tylix Usdt Nedir ? 
+## What is Tylix Usdt ? 
 
-![Geleceğin Tokeni](https://github.com/user-attachments/assets/b8d3b06a-ccd3-4842-b022-c8f220a04296)
+![Token of the Future](https://github.com/user-attachments/assets/b8d3b06a-ccd3-4842-b022-c8f220a04296)
 
-Tylix USDT, oyun içi ödeme çözümleri sunan modern dijitalleşmiş ekonomilerin gereksinimlerini karşılamak için ortaya çıkmış bir **özelleştirilmiş ERC-20 standartı** tokenidir. Arkasındaki geniş kitleli topluluk ile geleceğe emin adımlarla ilerleyen Tylix, bu günlerde aldığı yatırımlarla geleceği şekillendirecek bir token olarak ismini yazdıracaktır. <br/>
-Oyun dünyasının bitmek bilmeyen heyacanına ve tutkusuna ortak olan Tylix, oyunculara daha kolay bir ödeme sistemi sunmayı hedeflerken, oyun yaratıcaları için ise daha karlı ve daha sürdürülebilir bir ödeme alma aracı olarak kendisini ortaya koymayı hedeflemekte. 
+Tylix USDT is a **specialized ERC-20 standard** token that has emerged to meet the requirements of modern digitalized economies offering in-game payment solutions. Tylix, which is taking firm steps into the future with the large community behind it, will make its name as a token that will shape the future with the investments it receives these days. <br/>
+Sharing the endless excitement and passion of the gaming world, Tylix aims to offer an easier payment system for players, while aiming to establish itself as a more profitable and more sustainable means of payment for game creators. 
+## Purpose of Tylix Usdt 
+![Next Generation Payment Method for Games](https://github.com/user-attachments/assets/e7ea4066-34b0-414b-a343-ef9a5c255965)
 
-## Tylix Usdt'nin Amacı 
-![Oyunların Yeni Nesil Ödeme Yöntemi](https://github.com/user-attachments/assets/e7ea4066-34b0-414b-a343-ef9a5c255965)
+Tylix Usdt rejects **traditional payment methods** in games and aims to be a new generation payment method. Players will be able to buy the game units they want immediately after registering their wallets, at any time they want, easily, quickly and securely by approving all their future purchases from their own wallet with a simple approval system without wasting time. Tylix Usdt will serve every segment with a wallet, so instead of using credit cards obtained through banks and going through a laborious approval process before buying any units in games, you will be able to have the content you want quickly with your wallet without dealing with banks. <br/>
 
-
-Tylix Usdt, Oyunlardaki **geleneksel ödeme yöntemlerini** reddeder ve yeni nesil bir ödeme yöntemi olarak piyasa çıkmayı hedefler. Oyuncular istedikleri oyun birimlerini cüzdanlarını kaydettikten hemen sonra istedikleri zaman kolay, hızlı ve güvenli bir biçimde onay vererek bundan sonraki tüm harcamalarını kendi cüzdanından basit bir onay sistemi ile zaman kaybetmeden satın alabilecekler. Tylix Usdt, cüzdanı olan her kesime hizmet edecek ve böylece oyunlarda herhangi birim almadan önce bankalar aracılığı ile alınan kredi kartlarını kullanmak ve zahmetli bir onay sürecinden geçmek yerine sadece cüzdanınızla hızlı bir biçimde sizleri bankalarla uğraştırmadan istediğiniz içeriğe sahip olabileceksiniz. <br/>
-
-Ayrıca bu sayede kredi ve banka kartlarınızı herhangi bir oyun dünyasına entegre etmeden alım yapabileceğinizden kart bilgilerinizi yaymak zorunda kalmamış olacak, ve bilgilerinizi güvenle saklamış olacaksaınız. 
+It also means that you can make purchases without integrating your credit and debit cards into any gaming world, so you won't have to spread your card details, and you'll be able to store your information safely.
