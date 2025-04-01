@@ -851,7 +851,7 @@ abstract contract Pausable is Context {
 
 // Original license: SPDX_License_Identifier: MIT
 pragma solidity ^0.8.20;
-contract SecurePOH is ERC20, Pausable, Ownable {
+contract Tylix is ERC20, Pausable, Ownable {
     mapping(bytes32 => bool) private historyHashes;
     bytes32 public lastHistoryHash;
     uint256 public lastTimestamp;
@@ -860,7 +860,7 @@ contract SecurePOH is ERC20, Pausable, Ownable {
     event HistoryRecorded(bytes32 indexed hash, uint256 timestamp);
     event TransferExecuted(address indexed from, address indexed to, uint256 value);
     
-    constructor() ERC20("Tylix USDT", "USDT") Ownable(msg.sender) {
+    constructor() ERC20("Tylix", "NSDT") Ownable(msg.sender) {
     _mint(msg.sender, 1000000 * 10 ** decimals());
     }
 
